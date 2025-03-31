@@ -1,0 +1,8 @@
+# .gitignore 예시 (Python + Firebase)
+__pycache__/
+.env
+*.pyc
+venv/
+.idea/
+*.log
+firebase/serviceAccountKey.json  
